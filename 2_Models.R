@@ -2,7 +2,7 @@
 # "Now-final" 
 
 # DATA in Long Format...
-d1 <- read.csv("Whole_Dataset_long_GMM_INCLUDED_SIDESCENTRE_INCLUDED_SOCBACK_TRAVELABROAD_INCL_05_05_25",T, dec=",")
+d1 <- read.csv("Whole_Dataset_long_GMM_INCLUDED_SIDESCENTRE_INCLUDED_SOCBACK_TRAVELABROAD_INCL_05_05_25.csv",T, dec=",")
 
 # The "Czech control group" will not be used throughout the survey in the current version, let's leave it out for now...
 # Why is that: Originally, we used ratings from 777 Czech raters as a control sample (see the preregistration from at: 
