@@ -2,7 +2,8 @@ This is a supplementary folder of the files that come with a manuscript "Social 
 ----
 You find here the following files here: 
 R Scripts: 
-1_Data_curage.R It shows how data were processed and how the final table, provided to the reader, was created.  
+
+1_Data_curage.R It shows how data were processed and how the final table, provided to the reader, was created.  Please note that the data we use to create the two datasets reported below are not provided. 
 
 2_Models.R Main models, as reported in the manuscript.
 
