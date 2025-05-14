@@ -27,6 +27,6 @@ Datasets:
 Other things: 
 "Attractiveness_Trustworthiness_Men_Women_Separately" R project. Run this if you want to check the scripts. You should then experience little or no problems with formatting, etc. 
 
-"Supplements_07_05_25.docx" Supplementary materials. It's 38 pages, but it's mostly Figure 1, 2, 3, and 4, when different datasets are considered. 
+"Supplementary_Materials.docx" Supplementary materials. It's 38 pages, but it's mostly Figure 1, 2, 3, and 4, when different datasets are considered. Analogue of "Supplementary_Materials.pdf" that were uploaded together with the paper.  
 
 "YUFE_Rating_Study_Old_Analyses.pdf". Originally (as we predicted) we wanted to include Czech control sample, which was tempting, since the dataset was large (N=777) raters. Nevertheless, the raters only rated Attactiveness and Trustworthiness. To include Dominance, we had to go for another "Czech control sample", in which participants rated on Likert scale 1-7. Moreover, in neither of the two "Czech control sets" were the participants asked on how / if they use social media.Therefore, we decided to exclude the Czech control samples. However, to avoid accusition we are hiding something else than our bad design decision, we provide the full results (also to somehow justify the weeks that would otherwise be lost). 
