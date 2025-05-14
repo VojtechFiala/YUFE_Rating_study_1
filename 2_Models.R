@@ -679,18 +679,18 @@ summary.data.frame(D_AT_M)
 table(d_M$FSMUi,D_AT_M$FSMUi)
 
 #              1    2    3    4    5    6    7    8    9   10   11   12
-# AUS Above 1428    0    0    0    0    0    0    0    0    0    0    0
-# AUS Below    0 1372    0    0    0    0    0    0    0    0    0    0
-# COL Above    0    0  418    0    0    0    0    0    0    0    0    0
-# COL Below    0    0    0  430    0    0    0    0    0    0    0    0
-# CZ Above     0    0    0    0 4036    0    0    0    0    0    0    0
-# CZ Below     0    0    0    0    0 4014    0    0    0    0    0    0
-# RSA Above    0    0    0    0    0    0 1328    0    0    0    0    0
-# RSA Below    0    0    0    0    0    0    0 1166    0    0    0    0
-# TUR Above    0    0    0    0    0    0    0    0 2082    0    0    0
-# TUR Below    0    0    0    0    0    0    0    0    0 2108    0    0
-# VN Above     0    0    0    0    0    0    0    0    0    0 1934    0
-# VN Below     0    0    0    0    0    0    0    0    0    0    0 1876
+# AUS Above 1207    0    0    0    0    0    0    0    0    0    0    0
+# AUS Below    0 1168    0    0    0    0    0    0    0    0    0    0
+# COL Above    0    0  367    0    0    0    0    0    0    0    0    0
+# COL Below    0    0    0  345    0    0    0    0    0    0    0    0
+# CZ Above     0    0    0    0 3509    0    0    0    0    0    0    0
+# CZ Below     0    0    0    0    0 3266    0    0    0    0    0    0
+# RSA Above    0    0    0    0    0    0 1107    0    0    0    0    0
+# RSA Below    0    0    0    0    0    0    0  979    0    0    0    0
+# TUR Above    0    0    0    0    0    0    0    0 1708    0    0    0
+# TUR Below    0    0    0    0    0    0    0    0    0 1802    0    0
+# VN Above     0    0    0    0    0    0    0    0    0    0 1696    0
+# VN Below     0    0    0    0    0    0    0    0    0    0    0 1519
 
 summary.data.frame(D_AT_M)
 
