@@ -3,11 +3,13 @@ This is a supplementary folder of the files that come with a manuscript "Self-re
 You find here the following files here: 
 R Scripts: 
 
-1_Data_curage.R It shows how data were processed and how the final table, provided to the reader, was created.  Please note that the data we use to create the two datasets reported below are not provided. 
+1_Processing_Raw_Data_REVISION.R It shows how data were processed and how the final table, provided to the reader, was created. Please note that the data we use to create the datasets reported below are not provided. They may be obtained from the authors upon justified request. 
 
-2_Models.R Main models, as reported in the manuscript.
+2_Underlying_Factors_REVISION.R We computed underlying factor for the final split of the participants, as reported in a revised version of the manuscript. The script should work as all the necessary data have been added in the folder Data.Rar. 
 
-3_Plotting_Main_Model.R Trascription of how the posteriors were processed and how figures in the manuscript were done. Mind that some might have been edited in InkScape. 
+3_Main_Models_Sampling_REVISION.R Script that contain the models, as reported in the manuscript.
+
+4_Processing_Posterior_Plotting_Main_Models_REVISION.R In this script, Figures 2-4 of the revised manuscript were assembled. 
 
 4_Plotting_Separate_Models.R Do you remember we also did models with only one of the three rating scales' ratings predicted? We did, and this is to the script where we create figures based on these models. 
 
