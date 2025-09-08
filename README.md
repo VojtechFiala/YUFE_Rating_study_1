@@ -21,12 +21,13 @@ R Scripts:
 
 Datasets: 
 (all are stored in the folder Data.rar, please download and unzip):
-"Whole_Dataset_long_GMM_INCLUDED_SIDESCENTRE_INCLUDED_17_01_25.csv" Old version of the data. Contains former "Czech control sample", which was later excluded. Provided for interested reader who'd like to chech the data we use for "YUFE_Rating_study_Old_Analyses.pdf". 
+"Yufe_rating_study_long_data_SM_factor_25_08_25.csv" These are the data after revision. No older datasets are provided. We are not that sentimental. The dataset should be fine for being uploaded straight into R and run the analyses. However, if there is something wrong, try the 2nd data file of the same name: 
 
-"Whole_Dataset_long_GMM_INCLUDED_SIDESCENTRE_INCLUDED_SOCBACK_TRAVELABROAD_INCL_05_05_25.csv" new dataset that do not contain "Czech control sample" in which we are not interested anymore, however, contains information on how frequently given rater travelled abroad and how was he doing as a child. 
+"2Yufe_rating_study_long_data_SM_factor_25_08_25.csv" Why this? Well, csv is "comma separated values". In some language environment, comma is also a marker of decimal place. One of those files may misbehave in your case. Just try them both. 
 
-Other things: 
-"Attractiveness_Trustworthiness_Men_Women_Separately" R project. Run this if you want to check the scripts. You should then experience little or no problems with formatting, etc. 
+The other files: "AUS_USE_THIS_FOR_LONG_TABLE.Rdata", "COL_USE_THIS_FOR_LONG_TABLE.Rdata", "CZ_USE_THIS_FOR_LONG_TABLE.Rdata", "RSA_USE_THIS_FOR_LONG_TABLE.Rdata", "TUR_USE_THIS_FOR_LONG_TABLE.Rdata", and "VN_USE_THIS_FOR_LONG_TABLE.Rdata" allow reruring the script 2. Should you disagree with our underlying factor, run your own. 
+
+"OLDEMOG.Rdata" contains all the demographic information we consider relevant. ID is just a code assigned by labvanced. No personal data whatsoever. These data will be subject of a further analysis. It is likely (unless you are the reviewer / journal editor) that when you read this text, the data has been processed into a stand alone short report and it may not be the best idea to use them for a publication without letting us know. 
 
 "Supplementary_Materials.docx" Supplementary materials. It's 38 pages, but it's mostly Figure 1, 2, 3, and 4, when different datasets are considered. Analogue of "Supplementary_Materials.pdf" that were uploaded together with the paper.  
 
