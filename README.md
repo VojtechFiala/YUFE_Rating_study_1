@@ -1,4 +1,4 @@
-This is a supplementary folder of the files that come with a manuscript "Social Media Use Does Not Alter Cross-Population Consensus in First Impression Judgments" (working tittle). 
+This is a supplementary folder of the files that come with a manuscript "Self-reported Social Media Use Does Not Affect Cross-Cultural Consensus in First Impressions" (working tittle, after Revision 1, as of 12-09-2025). 
 ----
 You find here the following files here: 
 R Scripts: 
@@ -20,6 +20,7 @@ R Scripts:
 8_Plotting_Childhood_SES.R Here we also create figures based on models from script 6.
 
 Datasets: 
+(all are stored in the folder Data.rar, please download and unzip):
 "Whole_Dataset_long_GMM_INCLUDED_SIDESCENTRE_INCLUDED_17_01_25.csv" Old version of the data. Contains former "Czech control sample", which was later excluded. Provided for interested reader who'd like to chech the data we use for "YUFE_Rating_study_Old_Analyses.pdf". 
 
 "Whole_Dataset_long_GMM_INCLUDED_SIDESCENTRE_INCLUDED_SOCBACK_TRAVELABROAD_INCL_05_05_25.csv" new dataset that do not contain "Czech control sample" in which we are not interested anymore, however, contains information on how frequently given rater travelled abroad and how was he doing as a child. 
