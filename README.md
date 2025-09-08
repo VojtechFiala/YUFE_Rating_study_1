@@ -17,9 +17,9 @@ R Scripts:
 
 7_Models_Travel_Childhood_SES_REVISION.R We also splitted participants based on their frequency of traveling abroad and their socioeconomic status during childhood. The models are sampled through this script. 
 
-8_Plotting_Travel_Abroad_Models_REVISION.R Here we create figures based on models from script 6.
+8_Plotting_Travel_Abroad_Models_REVISION.R Here we create figures based on models from script 7.
 
-9_Plotting_Childhood_SES_REVISION.R Here we also create figures based on models from script 6.
+9_Plotting_Childhood_SES_REVISION.R Here we also create figures based on models from script 7.
 
 Datasets: 
 (all are stored in the folder Data.rar, please download and unzip):
