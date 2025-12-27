@@ -1,4 +1,4 @@
-This folder contains supplementary files accompanying the manuscript Self-reported Social Media Use Does Not Affect Cross-Cultural Consensus in First Impressions (working title, after Revision 1, as of 12-09-2025).
+This folder contains supplementary files accompanying the manuscript Self-reported Social Media Use Does Not Affect Cross-Cultural Consensus in First Impressions (working title, after Revision 2, as of 27-12-2025).
 ----
 
 R Scripts
